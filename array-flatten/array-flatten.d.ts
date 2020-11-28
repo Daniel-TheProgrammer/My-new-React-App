@@ -1,3 +1,4 @@
+
 declare function flatten <T> (array: flatten.NestedArray<T>): T[];
 
 declare namespace flatten {
