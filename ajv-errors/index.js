@@ -1,6 +1,5 @@
 'use strict';
 
-
 module.exports = function (ajv, options) {
   if (!ajv._opts.allErrors) throw new Error('ajv-errors: Ajv option allErrors must be true');
   if (!ajv._opts.jsonPointers) {
