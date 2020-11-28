@@ -1,5 +1,6 @@
 'use strict'
 
+
 module.exports = ansiHTML
 
 // Reference to https://github.com/sindresorhus/ansi-regex
